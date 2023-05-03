@@ -44,3 +44,4 @@ class locators:
     SELECT_28 = "//div[@class='dayContainer'] /span[32]"
     CLICK_FILTER = "//button[@type='submit']"
 
+  """Update setting"""
